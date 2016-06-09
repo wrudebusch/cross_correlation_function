@@ -1,0 +1,13 @@
+ref, param, lag 
+drx, vim_eng, -67
+drx, et_eng, 23
+drx, lan, -18 
+drx, ae52, -7 
+drx, co2bg, -5 
+drx, co2tpi, -10 
+drx, co2dil, -5 
+drx, gps, -14 
+drx, gps2, -14
+drx, testo_co2, -12 
+drx, testo_co, -319 
+drx, testo_etc, 1681 
